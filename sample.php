@@ -16,10 +16,10 @@ $ave = $ttl / 4;
 
 
 
-echo "the sum of 10 and 20 is $add.<br>";
-echo " the difference between 30 and 20 is $sub.<br>";
-echo "the product  of 10 and 40 is $mult.<br>";
-echo "the division total of 40 by 20 is $div.<br>";
+echo "the sum of $num1 and $num2 is $add.<br>";
+echo " the difference between $num3 and $num2 is $sub.<br>";
+echo "the product  of $num1 and $num4 is $mult.<br>";
+echo "the division total of $num4 by $num2 is $div.<br>";
 echo "the total of all result $ttl.<br>";
 echo "the average of all result $ave";
 
